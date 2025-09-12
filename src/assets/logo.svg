@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <g transform="translate(40,30)">
+    <text x="0" y="80" font-family="Georgia, serif" font-size="72" fill="#000">Paladim</text>
+    <text x="0" y="140" font-family="Arial, sans-serif" font-size="28" fill="#222">Virtudes Outonais</text>
+    <rect x="380" y="0" width="360" height="360" fill="none" stroke="#000" stroke-width="8"/>
+    <text x="430" y="190" font-family="Georgia, serif" font-size="42" fill="#000">🛡️📚</text>
+  </g>
+</svg>
